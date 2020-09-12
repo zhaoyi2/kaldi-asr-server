@@ -34,6 +34,6 @@ Start the clinet with multithreading: python client_test.py
 
 ```
 ### Reference
-－ https://github.com/Vernacular-ai/kaldi-serve
-－ https://github.com/al-zatv/kaldi-serve
+- https://github.com/Vernacular-ai/kaldi-serve
+- https://github.com/al-zatv/kaldi-serve
 
