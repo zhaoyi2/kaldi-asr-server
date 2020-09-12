@@ -1,0 +1,26 @@
+/models
+/.ccls-cache
+*.so
+*.o
+protos/*.pb*
+.vscode
+notes.md
+
+audio
+
+/python_stream/kaldi/__pycache__
+/.mypy_cache
+models.toml
+
+examples/*/model
+
+dev*
+
+.DS_Store
+.idea
+*.egg-info/
+*.pyc
+
+# pyenv
+python*-env
+.python-version

@@ -1,0 +1,4 @@
+/Users/admin/asr/kaldi-serve-master_v2/python/python/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
+/Users/admin/asr/kaldi-serve-master_v2/python/python/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/admin/asr/kaldi-serve-master_v2/python/python/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/admin/asr/kaldi-serve-master_v2/python/python/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir

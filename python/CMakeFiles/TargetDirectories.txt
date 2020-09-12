@@ -1,0 +1,10 @@
+/Users/admin/asr/kaldi-serve-master_v2/python/CMakeFiles/rebuild_cache.dir
+/Users/admin/asr/kaldi-serve-master_v2/python/CMakeFiles/edit_cache.dir
+/Users/admin/asr/kaldi-serve-master_v2/python/src/CMakeFiles/rebuild_cache.dir
+/Users/admin/asr/kaldi-serve-master_v2/python/src/CMakeFiles/edit_cache.dir
+/Users/admin/asr/kaldi-serve-master_v2/python/src/CMakeFiles/kaldiserve.dir
+/Users/admin/asr/kaldi-serve-master_v2/python/3rdparty/pybind11/CMakeFiles/rebuild_cache.dir
+/Users/admin/asr/kaldi-serve-master_v2/python/3rdparty/pybind11/CMakeFiles/edit_cache.dir
+/Users/admin/asr/kaldi-serve-master_v2/python/python/CMakeFiles/rebuild_cache.dir
+/Users/admin/asr/kaldi-serve-master_v2/python/python/CMakeFiles/edit_cache.dir
+/Users/admin/asr/kaldi-serve-master_v2/python/python/CMakeFiles/kaldiserve_pybind.dir
