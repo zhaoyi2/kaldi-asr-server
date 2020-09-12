@@ -12,9 +12,12 @@ This is a flask asr-service with server and client, which is based on the Vernac
 ## Installation
 * [Kaldi](https://kaldi-asr.org/)
 * python==3.6.7(suggest conda install)
+* pybind11(https://github.com/pybind/pybind11)
+  pybind11 is already included in the project, so you don't have to reconfigure it
 
 ### Build from Source
 ```bash
+config the KALDI_ROOT path in CMakeLists.txt
 cd build/
 cmake .. -DBUILD_PYBIND11=ON -DBUILD_PYTHON_MODULE=ON -DPYTHON_EXECUTABLE=${which python}
 make -j${nproc}
